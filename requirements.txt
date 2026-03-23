@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+torch
+transformers
+scikit-learn
+textblob
+joblib
+tqdm
+plotly
+textstat
+scipy

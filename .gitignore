@@ -1,0 +1,17 @@
+# Ignore large data files
+#data/*.csv
+data/*.npy
+
+# Allow required files
+!data/ranked_news_articles.csv
+
+# Ignore models
+models/*.pkl
+models/*.pt
+
+# Allow required model
+!models/popularity_model.pkl
+
+# Ignore cache
+__pycache__/
+.ipynb_checkpoints/
